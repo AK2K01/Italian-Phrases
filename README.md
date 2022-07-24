@@ -12,4 +12,5 @@ An Android application that speaks out loud several common English phrases in It
 8. Please.
 
 # Application Landing Page
+The user just has to tap on the phrase button and then it will be spoken out in Italian.
 !['Landing Page'](defaultimage.png)
